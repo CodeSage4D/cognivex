@@ -1,6 +1,13 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-cognivex-blue: #2563EB;
+  --color-cognivex-blue-soft: #3B82F6;
+  --color-cognivex-purple: #A78BFA;
+  --color-cognivex-purple-soft: #C4B5FD;
+  --color-cognivex-dark: #0a0a0b;
+  --color-cognivex-obsidian: #121214;
+}
 
 :root {
   --foreground-rgb: 255, 255, 255;
