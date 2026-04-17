@@ -1,0 +1,13 @@
+spacy
+sentence-transformers
+pymupdf
+python-docx
+pydantic
+langchain
+langchain-openai
+scikit-learn
+numpy
+fastapi
+uvicorn
+python-multipart
+openai
